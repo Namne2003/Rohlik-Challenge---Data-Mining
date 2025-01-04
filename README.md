@@ -1,4 +1,4 @@
-# Rohlik-Challenge---Data-Mining
+# Rohlik Challenge - Data Mining
 Data Mining Project, solving challenge of Rohlik group. The competition is on Kaggle
 
 * Data Mining project based on Rohlik sales predicting challenge which could be found on Kaggle. The
